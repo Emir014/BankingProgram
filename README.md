@@ -19,7 +19,7 @@ This project is a simple banking program implemented in Python. It allows users 
 
 ### Running the Program
 
-To run the program, navigate to the directory containing `banking_program.py` and execute the following command:
+To run the program, navigate to the directory containing `bank.py` and execute the following command:
 
 ```sh
 python bank.py
