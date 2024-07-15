@@ -12,8 +12,8 @@ This project is a simple banking program implemented in Python. It allows users 
 
 ## Project Structure
 
-- `banking_program.py`: The main program file containing all the functions and logic for the banking operations.
-- `user_data.csv`: The CSV file used to store user data (username, password, balance).
+- `bank.py`: The main program file containing all the functions and logic for the banking operations.
+- `user_data.csv`: The CSV file used to store user data (username, password, balance) This file is created when at least one user registers.
 
 ## Usage
 
@@ -22,4 +22,4 @@ This project is a simple banking program implemented in Python. It allows users 
 To run the program, navigate to the directory containing `banking_program.py` and execute the following command:
 
 ```sh
-python banking_program.py
+python bank.py
